@@ -2,7 +2,7 @@
   
   ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=1000&color=33D17A&width=435&lines=Welcome+to+my+GitHub+profile!)
   
-  ## 👋 Привет, я Киоилл Александрович (MagilaWEB)!
+  ## 👋 Привет, я Kirill (MagilaWEB)!
   
   **Системный программист на C++** из России с фокусом на оптимизацию, сетевые технологии и высокопроизводительные вычисления
 
@@ -30,17 +30,18 @@
 > - Минимизация "фризов" и повышение стабильности
 > - Адаптация библиотек под Windows (x86/x64)
 
-## 📊 Динамическая статистика GitHub
+## 📊 Статистика GitHub
 
-<div align="center">
-  
-  ![Статистика GitHub MagilaWEB](https://github-readme-stats.vercel.app/api?username=MagilaWEB&show_icons=true&theme=dark&hide_border=true&rank_icon=github&include_all_commits=true)
-  
-  ![Наиболее используемые языки](https://github-readme-stats.vercel.app/api/top-langs/?username=MagilaWEB&layout=compact&theme=dark&hide_border=true&langs_count=8&exclude_repo=MagilaWEB)
-  
-  ![Стрик активности](https://streak-stats.demolab.com?user=MagilaWEB&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D&mode=weekly)
-
-</div>
+<table align="center">
+  <tr>
+    <td>
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=MagilaWEB&show_icons=true&theme=dark&locale=ru" alt="Статистика" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MagilaWEB&layout=compact&theme=dark&locale=ru" alt="Языки" />
+    </td>
+  </tr>
+</table>
 
 ## 🛠️ Мой стек технологий
 
@@ -75,12 +76,36 @@
 
 ## 🏆 Достижения
 
-![Трофеи GitHub MagilaWEB](https://github-profile-trophy.vercel.app/?username=MagilaWEB&theme=onedark&no-frame=true&column=7&margin-w=10&margin-h=10)
-
-## 📈 Активность
-
-![Активность MagilaWEB](https://github-readme-activity-graph.vercel.app/graph?username=MagilaWEB&theme=github-dark&hide_border=true&area=true&custom_title=История%20контрибуций)
-
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/⭐%20Звёзд%20на%20Unblock-37-brightgreen" alt="Unblock Stars">
+      <br><sub><b>Популярный проект</b></sub>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/C++%20Эксперт-Системное%20ПО-success" alt="C++ Expert">
+      <br><sub><b>Специализация</b></sub>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Оптимизация%20движков-xRay%20Engine-blue" alt="Engine Optimization">
+      <br><sub><b>Опыт в играх</b></sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Сетевые%20технологии-WinDivert%2FBayDPI-orange" alt="Networking">
+      <br><sub><b>Сетевой стек</b></sub>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Многопоточность-oneTBB%2FParallel-ff69b4" alt="Multithreading">
+      <br><sub><b>Параллельные вычисления</b></sub>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Активный%20контрибьютор-Постоянные%20коммиты-yellow" alt="Active Contributor">
+      <br><sub><b>Регулярная активность</b></sub>
+    </td>
+  </tr>
+</table>
 ---
 
 <div align="center">
